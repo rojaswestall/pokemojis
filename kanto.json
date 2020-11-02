@@ -1,0 +1,52 @@
+
+
+[
+    {
+        "name" : "Pokemojis - Kanto"
+    },
+    {
+        "url": "https://user-images.githubusercontent.com/20361107/97889132-99534780-1cf1-11eb-9870-c961fd5f95a2.png",
+        "labels": "bulbasaur 001",
+        "source": "slackmojis",
+        "source_url": "https://emojis.slackmojis.com/emojis/images/1450735430/234/bulbasaur.png?1450735430",
+        "license": "?",
+        "size": "20x20",
+        "name": "bulbasaur"
+    },
+    {
+        "url": "https://user-images.githubusercontent.com/20361107/97889752-5776d100-1cf2-11eb-86c8-b7ae64803895.png",
+        "labels": "charmander 004",
+        "source": "slackmojis",
+        "source_url": "https://emojis.slackmojis.com/emojis/images/1450735852/239/charmander.png?1450735852",
+        "license": "?",
+        "size": "20x20",
+        "name": "charmander"
+    },
+    {
+        "url": "https://user-images.githubusercontent.com/20361107/97889865-7bd2ad80-1cf2-11eb-9e1f-9ec873f4de7d.png",
+        "labels": "squirtle 007",
+        "source": "slackmojis",
+        "source_url": "https://emojis.slackmojis.com/emojis/images/1450735892/240/squirtle.png?1450735892",
+        "license": "?",
+        "size": "20x20",
+        "name": "squirtle"
+    },
+    {
+        "url": "https://user-images.githubusercontent.com/20361107/97889915-8b51f680-1cf2-11eb-8dd8-6db2b546ce18.png",
+        "labels": "eevee 133",
+        "source": "slackmojis",
+        "source_url": "https://emojis.slackmojis.com/emojis/images/1468518265/661/eevee.png?1468518265",
+        "license": "?",
+        "size": "20x20",
+        "name": "eevee"
+    },
+    {
+        "url": "https://user-images.githubusercontent.com/20361107/97890004-a45aa780-1cf2-11eb-9ee4-704244d6a5e8.png",
+        "labels": "mew 151",
+        "source": "slackmojis",
+        "source_url": "https://emojis.slackmojis.com/emojis/images/1450736274/243/mew.png?1450736274",
+        "license": "?",
+        "size": "20x20",
+        "name": "mew"
+    }
+]
