@@ -48,5 +48,14 @@
         "license": "?",
         "size": "20x20",
         "name": "mew"
+    },
+    {
+        "url": "https://user-images.githubusercontent.com/20361107/102402914-16d5cd00-3fab-11eb-8e2b-89d54465b27d.png",
+        "labels": "ditto 132",
+        "source": "slackmojis",
+        "source_url": "https://emojis.slackmojis.com/emojis/images/1501834074/2744/ditto.png?1501834074",
+        "license": "?",
+        "size": "20x20",
+        "name": "ditto"
     }
 ]
