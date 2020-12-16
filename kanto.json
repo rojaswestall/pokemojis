@@ -41,6 +41,15 @@
         "name": "squirtle"
     },
     {
+        "url": "https://user-images.githubusercontent.com/20361107/102403859-7f717980-3fac-11eb-9fd8-c0d519f817d7.png",
+        "labels": "pikachu 025",
+        "source": "slackmojis",
+        "source_url": "https://emojis.slackmojis.com/emojis/images/1450735712/238/pikachu.png?1450735712",
+        "license": "?",
+        "size": "20x20",
+        "name": "pikachu"
+    },
+    {
         "url": "https://user-images.githubusercontent.com/20361107/102402914-16d5cd00-3fab-11eb-8e2b-89d54465b27d.png",
         "labels": "ditto 132",
         "source": "slackmojis",
