@@ -9,6 +9,7 @@
         "labels": "bulbasaur 001",
         "source": "slackmojis",
         "source_url": "https://emojis.slackmojis.com/emojis/images/1450735430/234/bulbasaur.png?1450735430",
+        "pokedex": "",
         "license": "?",
         "size": "20x20",
         "name": "bulbasaur"
@@ -18,6 +19,7 @@
         "labels": "ivysaur 002",
         "source": "slackmojis",
         "source_url": "https://emojis.slackmojis.com/emojis/images/1450736574/244/ivysaur.png?1450736574",
+        "pokedex": "",
         "license": "?",
         "size": "20x20",
         "name": "ivysaur"
@@ -27,6 +29,7 @@
         "labels": "charmander 004",
         "source": "slackmojis",
         "source_url": "https://emojis.slackmojis.com/emojis/images/1450735852/239/charmander.png?1450735852",
+        "pokedex": "",
         "license": "?",
         "size": "20x20",
         "name": "charmander"
@@ -36,6 +39,7 @@
         "labels": "squirtle 007",
         "source": "slackmojis",
         "source_url": "https://emojis.slackmojis.com/emojis/images/1450735892/240/squirtle.png?1450735892",
+        "pokedex": "",
         "license": "?",
         "size": "20x20",
         "name": "squirtle"
@@ -45,6 +49,7 @@
         "labels": "pikachu 025",
         "source": "slackmojis",
         "source_url": "https://emojis.slackmojis.com/emojis/images/1450735712/238/pikachu.png?1450735712",
+        "pokedex": "",
         "license": "?",
         "size": "20x20",
         "name": "pikachu"
@@ -54,6 +59,7 @@
         "labels": "psyduck 054",
         "source": "slackmojis",
         "source_url": "https://emojis.slackmojis.com/emojis/images/1450736025/241/psyduck.png?1450736025",
+        "pokedex": "",
         "license": "?",
         "size": "20x20",
         "name": "psyduck"
@@ -63,6 +69,7 @@
         "labels": "ditto 132",
         "source": "slackmojis",
         "source_url": "https://emojis.slackmojis.com/emojis/images/1501834074/2744/ditto.png?1501834074",
+        "pokedex": "",
         "license": "?",
         "size": "20x20",
         "name": "ditto"
@@ -72,6 +79,7 @@
         "labels": "eevee 133",
         "source": "slackmojis",
         "source_url": "https://emojis.slackmojis.com/emojis/images/1468518265/661/eevee.png?1468518265",
+        "pokedex": "",
         "license": "?",
         "size": "20x20",
         "name": "eevee"
@@ -81,6 +89,7 @@
         "labels": "snorlax 143",
         "source": "slackmojis",
         "source_url": "https://emojis.slackmojis.com/emojis/images/1450735389/233/snorlax.png?1450735389",
+        "pokedex": "",
         "license": "?",
         "size": "20x20",
         "name": "snorlax"
@@ -90,6 +99,7 @@
         "labels": "mewtwo 150",
         "source": "slackmojis",
         "source_url": "https://emojis.slackmojis.com/emojis/images/1450736076/242/mewtwo.png?1450736076",
+        "pokedex": "",
         "license": "?",
         "size": "20x20",
         "name": "mewtwo"
@@ -99,6 +109,7 @@
         "labels": "mew 151",
         "source": "slackmojis",
         "source_url": "https://emojis.slackmojis.com/emojis/images/1450736274/243/mew.png?1450736274",
+        "pokedex": "",
         "license": "?",
         "size": "20x20",
         "name": "mew"
